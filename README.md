@@ -3,12 +3,16 @@ Script for Adobe Illustrator. <br>
 Adds a frame of project metadata entered into the form.
 
 <br>
-The script uses the file "Assets/Template.svg" as a template. <br>
-The placement of elements inside the frame can be changed (do not change the text of the text elements).
+The script uses the file "Assets/Template.svg" as a template for positioning the entered information. <br>
+The placement of elements inside the frame can be changed. <br>
+Do not change the text of text elements, because the script searches for objects by their content. <br>
 
-<br><br>
+<br>
 Permanent information can be specified in "Assets/DesignerProfile.txt".  <br>
-It will be automatically added to the form field.
+It will be automatically added to the form field. <br>
+
+ <br>
+The list of available colors is compiled from the "Spot Color" project.
 
 
 <img src=".meta/screenshot.png" width="700"/> <br>
